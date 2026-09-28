@@ -7,6 +7,7 @@ A curated list of free, browser-based developer tools. No signup, no ads, no non
 - [CyberChef](https://gchq.github.io/CyberChef) — Encryption, encoding & data transformation
 
 ## 📝 JSON Tools
+- [FileOnTap](https://fileontap.com/) - Free browser-local File Converter for images and PDFs; no signup and files stay on the device.
 - [JSONLint](https://jsonlint.com) — JSON validator & formatter
 - [JSON Crack](https://jsoncrack.com) — JSON visualizer
 - [JSON Hero](https://jsonhero.io) — JSON explorer
