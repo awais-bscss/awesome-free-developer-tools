@@ -10,6 +10,7 @@ A curated list of free, browser-based developer tools. No signup or ads required
 - [JSONLint](https://jsonlint.com): JSON validator and formatter
 - [JSON Crack](https://jsoncrack.com): JSON visualizer
 - [JSON Hero](https://jsonhero.io): JSON explorer
+- [BestJSON JSON Diff](https://bestjson.com/json-diff): Compare JSON structures and inspect changed values by path
 
 ## Security and Authentication Tools
 - [JWT.io](https://jwt.io): JWT decoder and verifier
