@@ -21,6 +21,7 @@ A curated list of free, browser-based developer tools. No signup or ads required
 - [Neumorphism.io](https://neumorphism.io): Box shadow generator
 
 ## Image and File Tools
+- [ASCII Images](https://ascii-images.com/image-to-ascii?vendors=off): Free browser-based image-to-ASCII converter with a vendor-free editor option. No signup required.
 - [Squoosh](https://squoosh.app): Image compressor by Google
 - [TinyPNG](https://tinypng.com): PNG and JPG compression
 - [Remove.bg](https://remove.bg): Background remover
